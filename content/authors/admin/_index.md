@@ -1,13 +1,13 @@
 ---
 # Display name
-title: O MAIOR
+title: Tiago Carvalho
 
 # Name pronunciation (optional)
 name_pronunciation: 
 
 # Full name (for SEO)
-first_name: Mariana
-last_name: Carmo Duarte
+first_name: Tiago
+last_name: Carvalho
 
 # Status emoji
 status:
