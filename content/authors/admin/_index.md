@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Mariana Carmo Duarte
+title: O MAIOR
 
 # Name pronunciation (optional)
 name_pronunciation: 
