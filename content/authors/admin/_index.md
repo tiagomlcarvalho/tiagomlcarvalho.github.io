@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Postdoctoral Fellow
+role: Research Fellow
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: ICS - University of Lisbon
-    url: https://www.ics.ulisboa.pt/
+  - name: Iscte - University Institute of Lisbon
+    url: https://www.iscte-iul.pt/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include public opinion, party competition, EU politicisation, migration, and survey analysis
