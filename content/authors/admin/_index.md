@@ -36,22 +36,6 @@ interests:
   - Case Study Methods
   - Protest Event Analysis
 
-# Education to show in About widget
-education:
-  courses:
-    - course: PhD in Political and Social Science
-      institution: European University Institute
-      year: 2023
-    - course: PGDip in Data Analysis in Social Sciences
-      institution: ISCTE-IUL
-      year: 2018
-    - course: MSc in Political Science
-      institution: ISCTE-IUL
-      year: 2016
-    - course: BSc in Political Science and International Relations
-      institution: NOVA FCSH
-      year: 2014
-
 # Social/Academic Networking
 # For available icons, see: https://docs.hugoblox.com/getting-started/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
