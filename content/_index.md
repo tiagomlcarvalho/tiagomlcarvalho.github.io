@@ -55,14 +55,6 @@ sections:
       title: Contact
       # Contact (add or remove contact options as necessary)
       email: tmlco@iscte-iul.pt
-      address:
-        street: 
-        city: 
-        region: 
-        postcode: 
-        country: Portugal
-        country_code: PT
-      directions: Office
       # Automatically link email and phone or display as text?
       autolink: true
     design:
