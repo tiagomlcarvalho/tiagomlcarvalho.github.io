@@ -69,4 +69,4 @@ Methodologically, I combine qualitative and quantitative approaches, including p
 
 My dissertation was awarded the Portuguese Political Science Association Prize for Best Dissertation (2022) and it was published by Amsterdam University Press with the title Contesting Austerity having received the João Ferreira de Almeida Prize (2024). My research has been published in journals such as European Societies, Environmental Science & Policy, Housing Studies, Review of African Political Economy, Social Movement Studies, Environmental Sociology and Religion, State & Society, among others. I have also contributed to the Oxford Handbook of Climate Action (2025) and the Handbook of Research Methods and Applications for Social Movements (2024).
 
-Beyond academia, I write and record music under the stage name A Serious Man.
+Beyond academia, I write and record music under the stage name [A Serious Man](https://open.spotify.com/intl-pt/artist/6wvrVvoW2T1XUEG6QdZA3S?si=bJvApfaMQbahz__sdTteeg).
