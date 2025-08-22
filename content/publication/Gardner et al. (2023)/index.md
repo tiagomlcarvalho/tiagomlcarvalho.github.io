@@ -34,7 +34,7 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://library.oapen.org/handle/20.500.12657/59861'
+url_pdf: 'https://www.tandfonline.com/doi/abs/10.1080/03056244.2023.2283988'
 url_code: ''
 url_dataset: ''
 url_poster: ''
