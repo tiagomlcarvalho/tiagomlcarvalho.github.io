@@ -25,23 +25,16 @@ organizations:
     url: https://www.iscte-iul.pt/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a Researcher at the Centre for Research and Studies in Sociology (CIES-Iscte) since 2020 and Assistant Professor at Iscte – University Institute of Lisbon. I received my PhD in Sociology from the University of Cambridge in 2019.
-
-My research focuses on collective action and contemporary politics, with a particular interest in social movements, political parties, and their interactions. I study how political contention emerges, diffuses, and becomes institutionalised, examining both the public dimension of protest and its backstage articulation with parties and institutions. I have also explored transnational dynamics in housing struggles, climate mobilisations, and anti-austerity politics.
-
-Methodologically, I combine qualitative and quantitative approaches, including protest event analysis, comparative and case study methods, and computational tools for large-scale data collection and analysis. In my work, I have also advanced methodological innovations by extending the idea of backstage politics to capture different forms of involvement and interaction among collective actors.
-
-My book Contesting Austerity: Social Movements and the Left in Portugal and Spain (Amsterdam University Press, 2022) received the João Ferreira de Almeida Prize, and my research has been published in journals such as European Societies, Environmental Science & Policy, Housing Studies, Review of African Political Economy, Social Movement Studies, Environmental Sociology and Religion, State & Society. I have also contributed to the Oxford Handbook of Climate Action (2025) and the Handbook of Research Methods and Applications for Social Movements (2024).
-
-Beyond academia, I regularly contribute to public debates, with analyses published in Le Monde Diplomatique (Portugal), Expresso, Público, ECO, Le Soir (Belgium), and international outlets such as ECPR The Loop and the LSE EUROPP blog.
+bio: 
 
 # Interests to show in About widget
 interests:
-  - Public Opinion
-  - Party Competition
-  - EU Politicisation
-  - Migration
-  - Survey Analysis
+  - Social Movements
+  - Political Parties
+  - cycles of Contention
+  - Backstage Politics
+  - Case Study Methods
+  - Protest Event Analysis
 
 # Education to show in About widget
 education:
