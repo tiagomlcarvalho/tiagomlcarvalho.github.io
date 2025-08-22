@@ -1,13 +1,14 @@
 ---
-title: 'Informing or Guiding? The Influence of Party Politicisation of the European Union on Public Opinion Formation'
+title: 'Extinction Rebellion: The emergence, evolution, and character of a transnational environmental movement'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - MC Duarte
+  - T Carvalho
+  - P Gardner
 
-date: '2024-08-01T00:00:00Z'
+date: '2025-08-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -16,13 +17,13 @@ publishDate: '2024-01-01T00:00:00Z'
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['article-journal']
+publication_types: ['book-section']
 
 # Publication name and optional abbreviated publication name.
-publication: "*West European Politics*"
+publication: "*Oxford Handbook of Climate Action*"
 publication_short: ""
 
-abstract: How do individual predispositions towards national politics influence public opinion formation on the EU? This article addresses this question by unveiling the moderating role of party politicisation of the EU. Through debate and competition, political parties can affect how individuals rely on their predispositions towards national politics to form their views on the EU. Using individual-level and country-year-level data from 25 EU countries, results reveal that citizens are less likely to rely on short-term utilitarian appreciations of the national economy or trust in national institutions as the degree of party politicisation of the EU increases. The way individuals activate predispositions that reflect hostility towards immigrants is not dependent on the levels of party politicisation of the EU. The findings highlight that party politicisation of the EU informs public opinion by creating an information-rich environment; however, it does not guide individuals to mobilise and activate their cultural predispositions towards immigration.
+abstract: 
 
 
 featured: false
