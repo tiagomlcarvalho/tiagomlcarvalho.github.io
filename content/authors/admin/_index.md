@@ -31,7 +31,7 @@ bio:
 interests:
   - Social Movements
   - Political Parties
-  - cycles of Contention
+  - Cycles of Contention
   - Backstage Politics
   - Case Study Methods
   - Protest Event Analysis
