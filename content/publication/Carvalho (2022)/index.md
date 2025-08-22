@@ -19,7 +19,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['book']
 
 # Publication name and optional abbreviated publication name.
-publication: In **
+publication: In *Amsterdam University Press*
 publication_short: ""
 
 abstract: 
