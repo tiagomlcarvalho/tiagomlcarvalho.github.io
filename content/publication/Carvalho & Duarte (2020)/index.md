@@ -1,12 +1,11 @@
 ---
-title: 'The Politicization of Immigration in Portugal between 1995 and 2014: A European Exception?'
+title: 'Party in the Movement: Backstage Partyisation in Austerity Portugal'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - J Carvalho
-  - MC Duarte
+  - T Carvalho
 
 date: '2020-04-01T00:00:00Z'
 doi: ''
@@ -32,9 +31,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://onlinelibrary.wiley.com/doi/abs/10.1111/jcms.13048'
+url_pdf: 'https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00036/130614/Party-in-the-movement-backstage-partyisation-in'
 url_code: ''
-url_dataset: 'https://zenodo.org/records/4437528#.YADEAOj7Q2w'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
