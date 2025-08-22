@@ -7,7 +7,7 @@ title: 'Party in the Movement: Backstage Partyisation in Austerity Portugal'
 authors:
   - T Carvalho
 
-date: '2020-04-01T00:00:00Z'
+date: '2025-04-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -19,7 +19,7 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*JCMS: Journal of Common Market Studies*"
+publication: "*European Societies*"
 publication_short: ""
 
 abstract: Immigration is envisaged as part of an ‘emergent cultural cleavage’ across Western Europe. Within this context, this article explores the politicization of immigration in Portugal between 1995 and 2014. Politicization is interpreted as being formed by two distinct dimensions - salience and polarization of the political claims found within news articles extracted from newspapers. Notwithstanding the doubling of the foreign population settled in the country in the early 2000s, the diminished salience and the absence of significant political conflict suggest that immigration failed to become politicized in Portugal. Drawing on a comparative analysis with seven other European states between 1995 and 2009, Portugal observed the lowest rate of politicization. Rather than being related with socio-economic factors, the lack of politicization of immigration was associated with the strategies of the mainstream parties, which successfully prevented the emergence of this topic as a significant political cleavage.
