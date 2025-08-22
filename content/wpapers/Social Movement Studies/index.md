@@ -1,11 +1,9 @@
 ---
-title: '1,000 km of just nothingness: Geography, Networks and Space in the Organisation of Extinction Rebellion Australia'
+title: 'Beyond Protest Events: Engagement Event Analysis of the Lisbon Housing Movement (2012–2020)'
 summary: Working Paper
 authors:
-  - P Gardner
   - T Carvalho
-  - E Newman-Grigg
-  - T O'Brien
+  - G Accornero
 
 date: '2023-01-01'
 
