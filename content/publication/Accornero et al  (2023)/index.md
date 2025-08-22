@@ -1,13 +1,13 @@
 ---
-title: 'Eurosceptic, Polarized or Undecided? How Party Politicization May Shape the Structure of Public Attitudes Towards European Integration'
+title: 'The Symbolism of the Street in Portuguese Contention'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - MLC Juratic
-  - MC Duarte
-  - A Versailles
+  - G Accornero
+  - T Carvalho
+  - P Ramos Pinto
 
 date: '2023-01-01T00:00:00Z'
 doi: ''
@@ -21,10 +21,10 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['book-section']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Politicization of the European Union - From Processes to Consequences*
+publication: In *Symbolic Objects in Contentious Politics*
 publication_short: ""
 
-abstract: This chapter explores how party politicization may shape the structure of public attitudes towards European integration through partisan cue-taking processes. Party cues are particularly efficient in the context of party politicization, as it increases cue diversity, fosters cue clarity, and highlights cue directionality. Using a panel data analysis, this chapter focuses on 24 European countries from 1984 and 2018 and relies on data from the Chapel Hill Expert Survey and the Eurobarometer. The main results suggest that party politicization is associated with more diverse public attitudes towards the EU. Cue-taking is stronger when the diversity of party cues is greater, as it provides informational shortcuts that increase citizens’ capacity to position themselves on complex issues. However, party politicization is not related to attitudes' polarization. Cue clarity resulting from the deepening of elite dissensus on European integration does not lead to citizens adopting clear-cut and firm opinions on the same issue. Finally, party politicization of the EU leads to more sceptic opinions. This finding suggests that citizens are influenced by the direction and tone of party cues provided by Eurosceptic political parties, which are the main drivers of party politicization of the EU.
+abstract: 
 
 featured: false
 
