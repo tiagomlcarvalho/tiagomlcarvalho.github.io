@@ -1,6 +1,6 @@
 ---
 title: 'Spreading Rebellion: Dynamics of Extinction Rebellion Transnationalization '
-summary: Working Paper
+summary: Book
 authors:
   - P Gardner
   - T Carvalho
