@@ -1,14 +1,13 @@
 ---
-title: 'Follow the Media? News Environment and Public Concern about Immigration'
+title: 'Marginal gentrifiers, networks of mobilization and new contentious collective identities. The struggle for housing in post-austerity Lisbon'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - J Carvalho
-  - MC Duarte
-  - D Ruedin
-
+  - G Accornero
+  - T Carvalho
+  
 date: '2025-05-01T00:00:00Z'
 doi: ''
 
@@ -21,10 +20,8 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*European Journal of Political Research*"
+publication: "*Housing Studies*"
 publication_short: ""
-
-abstract: Immigration is a hot topic in Europe, but research on the media effects on public attention to immigration remains limited. We examine how media coverage affects the degree of importance attached to immigration in seven Western European countries. Data come from an extensive analysis of claims in printed newspapers, and the Eurobarometer (2002-2009). The continuous sample of news coverage is aggregated into a biannual panel, and we relate these data to citizens’ perceptions of the most important issues in their country six months later (lagged). The public consider immigration more important than other policy-related issues when there is an increase in the volume of news and more political claims on the topic in the media. The media environment appears to be an exogenous actor that can have agenda-setting effects on public concern about immigration. Our results highlight limitations of both the ‘policy-gap’ thesis and thermostatic models of policymaking. 
 
 featured: false
 
@@ -33,8 +30,8 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://ejpr.onlinelibrary.wiley.com/doi/10.1111/1475-6765.12683'
-url_code: 'https://osf.io/xjgny/'
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/02673037.2023.2266409'
+url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
