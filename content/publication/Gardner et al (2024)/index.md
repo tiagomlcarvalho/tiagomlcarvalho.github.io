@@ -28,7 +28,7 @@ featured: false
 # links:
 # - name: ""
 #   url: ""
-url_pdf: 'https://journals.sagepub.com/doi/abs/10.1177/1024258917696239'
+url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/14742837.2023.2204428'
 url_code: ''
 url_dataset: ''
 url_poster: ''
