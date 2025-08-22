@@ -49,27 +49,17 @@ sections:
       # Choose a layout view
       view: compact
       columns: '2'    
-  - block: collection
-    id: data
-    content:
-      title: Data
-      filters:
-        folders:
-          - data
-    design:
-      columns: '2'
-      view: compact
   - block: contact
     id: contact
     content:
       title: Contact
       # Contact (add or remove contact options as necessary)
-      email: mariana.carmoduarte@ics.ulisboa.pt
+      email: tmlco@iscte-iul.pt
       address:
-        street: Av. Professor Aníbal de Bettencourt 9
-        city: Lisbon
+        street: 
+        city: 
         region: 
-        postcode: 1600-189
+        postcode: 
         country: Portugal
         country_code: PT
       directions: Office
