@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: publications
     content:
-      title: Publications
+      title: Selected Publications
       filters:
         folders:
           - publication
@@ -23,9 +23,9 @@ sections:
       columns: '2'
       view: citation
   - block: collection
-    id: workingpapers
+    id: Work in Progress
     content:
-      title: Working Papers
+      title: Work in Progress
       subtitle: ''
       text: ''
       # Choose how many pages you would like to display (0 = all pages)
@@ -60,3 +60,4 @@ sections:
     design:
       columns: '2'
 ---
+
