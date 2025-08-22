@@ -1,15 +1,14 @@
 ---
-title: 'Migration Communication Campaigns: Towards a Research Agenda and Open Database'
+title: 'Beyond (what) politics and towards (what) change? A look into the Extinction Rebellion’s call for Climate Assemblies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - J Dennison
-  - L Piccoli
-  - MC Duarte
+  - R Falanga
+  - G Accornero
 
-date: '2024-10-01T00:00:00Z'
+date: '2025-10-01T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -21,10 +20,10 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Journal of European Public Policy*"
+publication: "*Environmental Science & Policy*"
 publication_short: ""
 
-abstract: Every year, government agencies, international organisations, and civil society associations produce public communications campaigns designed to inform, persuade, and motivate behaviour regarding numerous facets of migration. Despite their increasing ubiquity, resources, and—possibly—impact, as well as the profound scientific relevance in understanding them, such campaigns remain relatively understudied and existing research is disjointed across various disciplines. This article takes three steps to propose and initiate a unified, interdisciplinary research agenda on migration communication campaigns (MCCs). First, we overview the need for a research agenda based on their increased substantive importance and scientific interest. Second, we outline what such a research agenda should look like, proposing six research themes. Third, we contribute to this proposed research agenda in two ways - with a typology of MCCs and by presenting our open-access, collaborative database to kick-start more systematic research in this field, including theoretical justifications for each variable. The database includes 301 MCCs conducted in 32 European countries between 2012 and 2022. We invite submissions of all types of MCCs globally to create a bridge between communities of academics, policymakers, and communicators. 
+abstract:
 
 featured: false
 
