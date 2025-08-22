@@ -1,9 +1,11 @@
 ---
-title: 'Only Hot Air? National Parliamentary Discourse and Its Effect on Public Opinion on the European Union'
+title: '1,000 km of just nothingness: Geography, Networks and Space in the Organisation of Extinction Rebellion Australia'
 summary: Working Paper
 authors:
-  - MC Duarte
-  - RC Kittel
+  - P Gardner
+  - T Carvalho
+  - E Newman-Grigg
+  - T O'Brien
 
 date: '2023-01-01'
 
