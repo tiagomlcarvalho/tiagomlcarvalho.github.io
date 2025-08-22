@@ -61,12 +61,12 @@ social:
 highlight_name: true
 ---
 
-Welcome to my website! I am a Postdoctoral researcher at [ICS - University of Lisbon](https://www.ics.ulisboa.pt). I am currently working on the project [LoREP - Losers of Representation](https://www.ics.ulisboa.pt/en/projeto/losers-representation). I received my PhD in Political and Social Sciences from the [European University Institute](https://www.eui.eu/en/home) in September 2023.
+I am a Researcher at the Centre for Research and Studies in Sociology (CIES-Iscte) since 2020 and Assistant Professor at Iscte – University Institute of Lisbon. I received my PhD in Sociology from the University of Cambridge in 2019.
 
-My research interests lie in the field of comparative politics, namely in public opinion and party competition. I use advanced quantitative methods and experimental designs to explore the consequences of party politicisation of the European Union and immigration on the dynamics of public opinion formation. Besides that, my research interests also include political institutions, electoral systems, and political representation. 
+My research focuses on collective action and contemporary politics, with a particular interest in social movements, political parties, and their interactions. I study how political contention emerges, diffuses, and becomes institutionalised, examining both the public dimension of protest and its backstage articulation with parties and institutions. I have also explored transnational dynamics in housing struggles, climate mobilisations, and anti-austerity politics.
 
-My work has been published in the *Journal of European Public Policy*, *European Journal of Political Research*, *West European Politics*, and *JCMS: Journal of Common Market Studies*, among others.
+Methodologically, I combine qualitative and quantitative approaches, including protest event analysis, comparative and case study methods, and computational tools for large-scale data collection and analysis. In my work, I have also advanced methodological innovations by extending the idea of backstage politics to capture different forms of involvement and interaction among collective actors.
 
-If you are interested in knowing more about my research, please feel free to contact me at mariana.carmoduarte@ics.ulisboa.pt.
+My book Contesting Austerity: Social Movements and the Left in Portugal and Spain (Amsterdam University Press, 2022) received the João Ferreira de Almeida Prize, and my research has been published in journals such as European Societies, Environmental Science & Policy, Housing Studies, Review of African Political Economy, Social Movement Studies, Environmental Sociology and Religion, State & Society. I have also contributed to the Oxford Handbook of Climate Action (2025) and the Handbook of Research Methods and Applications for Social Movements (2024).
 
-Thank you for your visit!
+Beyond academia, I regularly contribute to public debates, with analyses published in Le Monde Diplomatique (Portugal), Expresso, Público, ECO, Le Soir (Belgium), and international outlets such as ECPR The Loop and the LSE EUROPP blog.
