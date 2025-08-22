@@ -1,11 +1,12 @@
 ---
-title: 'Workers’ EU Political Alignments during the Great Recession'
+title: 'PROFILE: Extinction Rebellion in the Gambia'
 authors:
-- A Freire
-- L Cabrita
-- MC Duarte
-- HF Lopes
-date: "2017-05-01T00:00:00Z"
+- P Gardner
+- T O'Brien
+- T Carvalho
+- O Adekola
+
+date: "2024-05-01T00:00:00Z"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
@@ -17,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["article-journal"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Transfer: European Review of Labour and Research*"
+publication: "*Social Movement Studies*"
 publication_short: ""
 
-abstract: Using data from the European Election Study 2014, this article focuses on workers’ EU political alignments during the Great Recession. It deals with two research questions. First, how does the attitude of (manual) workers towards the EU compare to that of the middle and upper classes in the aftermath of the Great Recession? Second, when it comes to workers’ support for the EU, are there systematic differences between countries affected by the crisis? The article finds that, on the one hand, in terms of patterns of workers’ EU political alignments, there are no systematic differences between countries affected to varying degrees by the Great Recession. On the other hand, workers still feel fundamentally detached from the EU, especially when it comes to the manual workers. However, high levels of generalised detachment from the EU are not clearly translated into preferences for Eurosceptic parties, since there are high levels of vote fragmentation.
+abstract:
 
 featured: false
 
