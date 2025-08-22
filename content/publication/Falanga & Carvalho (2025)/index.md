@@ -6,7 +6,7 @@ title: 'Beyond (what) politics and towards (what) change? A look into the Extinc
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - R Falanga
-  - G Accornero
+  - T Carvalho
 
 date: '2025-10-01T00:00:00Z'
 doi: ''
@@ -32,9 +32,9 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://www.dropbox.com/scl/fi/1epbrs7r43wfgk6q33k23/Dennison-Piccoli-and-Duarte.pdf?rlkey=b35igr3eir9xzdsc2x3qawtea&st=lp9saaze&dl=0'
-url_code: ''
-url_dataset: 'https://hdl.handle.net/1814/76561'
+url_pdf: ''
+url_code: 'https://www.sciencedirect.com/science/article/abs/pii/S1462901125000267'
+url_dataset: ''
 url_poster: ''
 url_project: ''
 url_slides: ''
