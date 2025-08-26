@@ -61,3 +61,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
+
+Despite the historical and political similarities between Portugal and Spain, the contentious responses to austerity diverged in terms of number, rhythm and players. This book compares the contentious responses to austerity in Portugal and Spain during the Eurozone crisis and the Great Recession between 2008 and 2015. While in Spain a sustained wave of mobilisation lasted for three years, involving various players and leading to a transformation of the party system, in Portugal social movements were only able to mobilise in specific instances, trade unions dominated protest and, by the end of the cycle, institutional change was limited. Contesting Austerity shows that the different trajectories and outcomes in these two countries are connected to the nature and configurations of the players in the mobilisation process. While in Spain actors’ relative autonomy from one another led to deeper political transformation, in Portugal the dominance of the institutional actors limited the extent of that change.
