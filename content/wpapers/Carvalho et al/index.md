@@ -25,3 +25,5 @@ url_video: ''
 #   Otherwise, set `slides = ""`.
 slides: ""
 ---
+
+Grassroots activism in response to the climate emergency has become a defining feature of twenty-first-century societies. Yet, their global determinants remain poorly understood. This study addresses this gap through a cross-national analysis of collective environmental action events across 156 countries between 2018 and 2022: a pivotal moment in climate mobilisation. Our findings suggest that the main macro-level drivers of collective environmental action are GDP, democratic governance, and the prevalence of anti-system social movements. While GDP and anti-system movements were found to be significant across the Global North, in the Global South such activism was more likely where structural injustices intersect with higher education levels and liberalised economies. Hence, our findings point to the unequal political and socioeconomic conditions underpinning local capacities to mobilise against the climate emergency.
