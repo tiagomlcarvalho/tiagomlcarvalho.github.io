@@ -20,7 +20,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *The Politicization of the European Union - From Processes to Consequences*
+publication: In *Religion, State & Society*
 publication_short: ""
 
 abstract: 
