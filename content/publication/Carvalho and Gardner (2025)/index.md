@@ -63,3 +63,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
+
+At the end of the 2010s, a new wave of climate activism emerged around the world, with the transnational spread of groups such as Fridays For Future, the Sunrise Movement, the Green New Deal Coalition, and Extinction Rebellion (XR). Due to their action, discourse, capacity to transnationalize, and alliance with other groups, XR has become one of the most important environmental movements of the 21st century. Created in the United Kingdom in 2018, it rapidly transnationalized with the help of massive, impactful demonstrations in the United Kingdom that gave visibility to their action and principles. In this chapter, we provide an overview of XR’s emergence, renationalization, evolution over time, and core characteristics, including its repertoires of action, practices, discourses, and social composition. Overall, we present the movement as being characterized by overarching tensions in its organizational framework and conception of politics, involving a complex amalgamation of horizontal democratic and centralizing vanguardist tendencies.
