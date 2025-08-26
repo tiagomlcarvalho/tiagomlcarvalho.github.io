@@ -58,3 +58,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: ""
 ---
+
+The emergence of Extinction Rebellion (XR) in 2018 as a global movement led to the establishment of chapters all around the world. Much existing work has focused on cases located in the UK, Western Europe and the Anglosphere. This profile presents a case study of the formation of XR in The Gambia as an example of further diffusion of the movement. We examine how partial democratisation opened up space for contention, which in turn led to the adoption of the XR brand in the country. In turn, becoming a chapter of XR has opened up new opportunities for the transnationalisation of Gambian environmental activism. The profile concludes by reflecting on the potential future of the group.
