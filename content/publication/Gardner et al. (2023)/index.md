@@ -64,3 +64,5 @@ projects: []
 #   Otherwise, set `slides: ""`.
 slides: []
 ---
+
+Climate change is having increasing impacts on the social, economic and political space across the African continent. The compounding character of such impacts reinforces existing inequalities, raising important considerations around climate justice. Growing awareness has seen the emergence of activists working for solutions and promoting alternative futures, working across scales and sectors to address the complexity of the threats. This article examines environmental activism in Nigeria and South Africa, exploring strategies and claims, and how these are rooted in questions of justice. While environmental movements in Nigeria have generally worked to encourage reform and adaption within the existing political economic system, a more systemic critique and need for fundamental change is observable in South Africa. Drawing on a comparison of Extinction Rebellion in both countries, we argue that understandings of just transitions should take into consideration the unequal abilities of social movements to call for radically transformative and just decarbonisation.
