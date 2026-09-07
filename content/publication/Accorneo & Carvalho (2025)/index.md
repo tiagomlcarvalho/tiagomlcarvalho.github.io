@@ -5,14 +5,14 @@ title: 'Marginal gentrifiers, networks of mobilization and new contentious colle
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - G Accornero
-  - T Carvalho
+  - Guya Accornero
+  - admin
   
 date: '2025-05-01T00:00:00Z'
-doi: ''
+doi: '10.1080/02673037.2023.2266409'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2025-05-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,17 +20,17 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Housing Studies*"
+publication: "*Housing Studies*, 40(1), 229–252"
 publication_short: ""
+publication_status: 'Published'
 
 featured: false
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Publisher
+    url: https://www.tandfonline.com/doi/full/10.1080/02673037.2023.2266409
 
-url_pdf: 'https://www.tandfonline.com/doi/full/10.1080/02673037.2023.2266409'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

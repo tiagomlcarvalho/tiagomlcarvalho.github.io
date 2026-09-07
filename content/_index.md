@@ -15,6 +15,7 @@ sections:
     id: publications
     content:
       title: Selected Publications
+      count: 6
       filters:
         folders:
           - publication
@@ -22,33 +23,20 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: Work in Progress
+  - block: markdown
+    id: research
     content:
-      title: Work in Progress
+      title: Research
       subtitle: ''
-      text: ''
-      # Choose how many pages you would like to display (0 = all pages)
-      count: 5
-      # Filter on criteria
-      filters:
-        folders:
-          - wpapers
-        author: ""
-        category: ""
-        tag: ""
-        exclude_featured: false
-        exclude_future: false
-        exclude_past: false
-        publication_type: ""
-      # Choose how many pages you would like to offset by
-      offset: 0
-      # Page order: descending (desc) or ascending (asc) date.
-      order: desc
+      text: |-
+        My research is organised around four connected agendas:
+
+        1. **Social movements and political parties** — mobilisation, party–movement relations, and backstage politics.
+        2. **Housing and political participation** — urban movements, contention, and democratic engagement.
+        3. **Environmental and climate activism** — the emergence, diffusion, and organisation of climate mobilisation.
+        4. **Protest and engagement event analysis** — methods for studying public protest and less visible forms of collective action.
     design:
-      # Choose a layout view
-      view: compact
-      columns: '2'    
+      columns: '2'
   - block: contact
     id: contact
     content:

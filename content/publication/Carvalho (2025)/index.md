@@ -5,13 +5,13 @@ title: 'Party in the Movement: Backstage Partyisation in Austerity Portugal'
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - T Carvalho
+  - admin
 
 date: '2025-04-01T00:00:00Z'
-doi: ''
+doi: '10.1162/euso_a_00036'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2020-01-01T00:00:00Z'
+publishDate: '2025-04-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -19,18 +19,18 @@ publishDate: '2020-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*European Societies*"
+publication: "*European Societies*, 27(4), 724–751"
 publication_short: ""
+publication_status: 'Published'
 
 abstract: 
 featured: false
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Publisher
+    url: https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00036/130614/Party-in-the-movement-backstage-partyisation-in
 
-url_pdf: 'https://direct.mit.edu/euso/article/doi/10.1162/euso_a_00036/130614/Party-in-the-movement-backstage-partyisation-in'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''

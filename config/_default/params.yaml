@@ -18,8 +18,8 @@ marketing:
     site_type: Person
     local_business_type: ''
     org_name: ''
-    description: 'A highly-customizable Hugo academic resume theme powered by Hugo Blox Builder.'
-    twitter: 'GetResearchDev'
+    description: 'Tiago Carvalho is Assistant Professor of Sociology at Iscte and a researcher at CIES-Iscte, working on social movements, political parties, housing, climate activism, and political participation.'
+    twitter: 'TiagoMLCarvalho'
   analytics:
     google_analytics: ''
     baidu_tongji: ''
@@ -70,7 +70,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/<username>/<repository>'
+    url: 'https://github.com/tiagomlcarvalho/tiagomlcarvalho.github.io'
     content_dir: content
     branch: main
   avatar:

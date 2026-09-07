@@ -1,18 +1,18 @@
 ---
-title: 'Beyond (what) politics and towards (what) change? A look into the Extinction Rebellion’s call for Climate Assemblies'
+title: 'What change? Assessing the Extinction Rebellion’s support for climate assemblies'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
-  - R Falanga
-  - T Carvalho
+  - Roberto Falanga
+  - admin
 
-date: '2025-10-01T00:00:00Z'
-doi: ''
+date: '2025-02-01T00:00:00Z'
+doi: '10.1016/j.envsci.2025.104010'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2024-01-01T00:00:00Z'
+publishDate: '2025-02-01T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
@@ -20,19 +20,19 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Environmental Science & Policy*"
+publication: "*Environmental Science & Policy*, 164, Article 104010"
 publication_short: ""
+publication_status: 'Published'
 
 abstract:
 
 featured: false
 
-# Custom links (uncomment lines below)
-# links:
-# - name: Custom Link
-#   url: http://example.org
+links:
+  - name: Publisher
+    url: https://www.sciencedirect.com/science/article/pii/S1462901125000267
 
-url_pdf: 'https://www.sciencedirect.com/science/article/abs/pii/S1462901125000267'
+url_pdf: ''
 url_code: ''
 url_dataset: ''
 url_poster: ''
