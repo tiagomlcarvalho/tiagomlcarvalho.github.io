@@ -8,7 +8,7 @@ authors:
   - T Carvalho
 
 date: '2024-01-01T00:00:00Z'
-doi: ''
+doi: '10.4337/9781803922027.00026'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-09-01T00:00:00Z'
@@ -19,7 +19,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['book-section']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Handbook of Research Methods and Applications in Social Movements*
+publication: 'In *Handbook of Research Methods and Applications for Social Movements*, pp. 257–270. Edward Elgar Publishing'
 publication_short: ""
 
 abstract: 
@@ -31,7 +31,10 @@ featured: false
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: 'https://library.oapen.org/handle/20.500.12657/59861'
+url_pdf: ''
+links:
+  - name: Publisher
+    url: https://doi.org/10.4337/9781803922027.00026
 url_code: ''
 url_dataset: ''
 url_poster: ''

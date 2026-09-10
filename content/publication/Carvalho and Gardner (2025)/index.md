@@ -9,7 +9,7 @@ authors:
   - P Gardner
 
 date: '2025-08-01T00:00:00Z'
-doi: ''
+doi: '10.1093/oxfordhb/9780197762097.013.0014'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2024-01-01T00:00:00Z'
@@ -20,7 +20,7 @@ publishDate: '2024-01-01T00:00:00Z'
 publication_types: ['book-section']
 
 # Publication name and optional abbreviated publication name.
-publication: "*Oxford Handbook of Climate Action*"
+publication: 'In *The Oxford Handbook of Climate Action*. Oxford University Press'
 publication_short: ""
 
 abstract: 

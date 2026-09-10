@@ -9,7 +9,7 @@ authors:
   - T Carvalho
 
 date: '2022-01-01T00:00:00Z'
-doi: ''
+doi: '10.1080/14742837.2019.1681957'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-09-01T00:00:00Z'
@@ -20,7 +20,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Social Movement Studies*
+publication: '*Social Movement Studies*'
 publication_short: ""
 
 abstract:

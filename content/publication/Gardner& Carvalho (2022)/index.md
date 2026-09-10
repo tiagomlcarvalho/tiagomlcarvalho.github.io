@@ -1,5 +1,5 @@
 ---
-title: '), Spreading rebellion?: The rise of extinction rebellion chapters across the world'
+title: 'Spreading rebellion? The rise of Extinction Rebellion chapters across the world'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -10,7 +10,7 @@ authors:
   - M Valenstain
 
 date: '2022-01-01T00:00:00Z'
-doi: ''
+doi: '10.1080/23251042.2022.2094995'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-09-01T00:00:00Z'
@@ -21,7 +21,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Environmental Sociology*
+publication: '*Environmental Sociology*'
 publication_short: ""
 
 abstract: 

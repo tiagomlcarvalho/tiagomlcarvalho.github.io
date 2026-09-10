@@ -8,7 +8,7 @@ authors:
   - T Carvalho
 
 date: '2022-01-01T00:00:00Z'
-doi: ''
+doi: '10.5117/9789463722841'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-09-01T00:00:00Z'
@@ -19,7 +19,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['book']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Amsterdam University Press*
+publication: 'Amsterdam University Press'
 publication_short: ""
 
 abstract: 

@@ -25,7 +25,7 @@ organizations:
     url: https://www.iscte-iul.pt/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Political sociologist studying social movements, collective action, and political participation.
 
 # Interests to show in About widget
 interests:
@@ -69,6 +69,14 @@ social:
     icon_pack: fas
     link: https://www.cienciavitae.pt/B01E-61DD-143A
     label: CiênciaVitae
+  - icon: link
+    icon_pack: fas
+    link: https://www.scopus.com/authid/detail.uri?authorId=57226476823
+    label: Scopus
+  - icon: link
+    icon_pack: fas
+    link: https://www.webofscience.com/wos/author/record/AEB-3995-2022
+    label: Web of Science ResearcherID
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -77,12 +85,18 @@ social:
 highlight_name: true
 ---
 
-I am an Assistant Professor of Sociology at Iscte – University Institute of Lisbon and an integrated researcher at CIES-Iscte. I received my PhD in Sociology from the University of Cambridge in 2019.
+I am an Assistant Professor in the Department of Sociology at Iscte – University Institute of Lisbon and an integrated researcher at CIES-Iscte. My research focuses primarily on social movements, collective action, and political participation, with particular attention to relations between movements, parties, and institutions, the transnational circulation of mobilisation, and the political and social conditions that foster different forms of collective action.
 
-My research focuses on social movements, political parties, and movement–party relations, including protest and political participation, housing and urban movements, and environmental and climate activism. I study how political contention emerges, diffuses, and becomes institutionalised, examining both public protest and its backstage articulation with parties and institutions.
+One of the main strands of my research concerns the relationship between social movements and political parties, including the alliances, boundaries, and forms of influence between these actors. I have paid particular attention to interactions that take place outside the public sphere, proposing the concept of *backstage partyisation* to analyse the involvement of political parties behind the scenes of mobilisation.
 
-Methodologically, I combine qualitative and quantitative methods, including protest event analysis, comparative and case-study research, and computational tools for data collection and analysis. My work also develops engagement event analysis to capture forms of collective action that are less visible than public protest.
+I have also developed a line of research on environmental and climate movements, focusing on their transnational diffusion and on the political and socioeconomic conditions that help explain differences in mobilisation across countries. This work has examined, among other cases, Extinction Rebellion and Fridays for Future.
 
-My dissertation received the APCP Best PhD Dissertation Prize in 2022 and was published as *Contesting Austerity* by Amsterdam University Press in 2022; the book received the João Ferreira de Almeida Prize in 2024. I was a FLAD Visiting Professor at Brown University in 2023 and co-chair of the Council for European Studies Social Movements Research Network from 2022 to 2025. My research has appeared or is forthcoming in *Sociology*, *European Societies*, *Environmental Science & Policy*, *Housing Studies*, *Social Movement Studies*, and *Environmental Sociology*, among other outlets.
+I combine qualitative and quantitative methods, drawing on comparative case studies, event analysis, survey data, and computational methods. More recently, I have been developing event analysis beyond protest, seeking to include systematically other activities undertaken by social movements, ranging from engagement with institutions and the media to internal organisation and community activities.
+
+I received my PhD in Sociology from the University of Cambridge in 2019. In 2022, my dissertation received the Best PhD Dissertation Prize from the Portuguese Political Science Association and was published as *Contesting Austerity: Social Movements and the Left in Portugal and Spain* (Amsterdam University Press, 2022), which received the João Ferreira de Almeida Prize in 2024.
+
+From 2019 to 2020, I was a researcher at the Scuola Normale Superiore in Florence. I was also a FLAD Visiting Professor at Brown University in 2023 and a Visiting Professor at the University of Florence in 2024, and undertook research stays at Universidad Carlos III de Madrid and the University of York.
+
+My work has appeared in journals such as *Sociology*, *European Societies*, *Environmental Science & Policy*, *Housing Studies*, and *Social Movement Studies*, and I have contributed to volumes including the *Oxford Handbook of Climate Action* and the *Handbook of Research Methods and Applications for Social Movements*. I also write regularly for non-academic audiences in Portuguese and international publications.
 
 Beyond academia, I write and record music under the stage name [A Serious Man](https://open.spotify.com/intl-pt/artist/6wvrVvoW2T1XUEG6QdZA3S?si=bJvApfaMQbahz__sdTteeg).

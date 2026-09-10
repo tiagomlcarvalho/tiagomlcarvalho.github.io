@@ -1,5 +1,5 @@
 ---
-title: 'Justice and just transitions: Environmental movements and political economy in Nigeria and South Africa'
+title: 'Confronting the climate crisis in Africa: just transitions and Extinction Rebellion in Nigeria and South Africa'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -11,7 +11,7 @@ authors:
   - T Carvalho
 
 date: '2023-01-01T00:00:00Z'
-doi: ''
+doi: '10.1080/03056244.2023.2283988'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-09-01T00:00:00Z'
@@ -22,7 +22,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['journal-article']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Review of Africa Political Economy*
+publication: '*Review of African Political Economy*'
 publication_short: ""
 
 abstract: 

@@ -10,7 +10,7 @@ authors:
   - P Ramos Pinto
 
 date: '2023-01-01T00:00:00Z'
-doi: ''
+doi: '10.3998/mpub.11722857'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-09-01T00:00:00Z'
@@ -21,7 +21,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['book-section']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Symbolic Objects in Contentious Politics*
+publication: 'In *Symbolic Objects in Contentious Politics*. University of Michigan Press'
 publication_short: ""
 
 abstract: 

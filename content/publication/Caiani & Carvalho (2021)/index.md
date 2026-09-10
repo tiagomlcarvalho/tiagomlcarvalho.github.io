@@ -9,7 +9,7 @@ authors:
   - T Carvalho
 
 date: '2021-01-01T00:00:00Z'
-doi: ''
+doi: '10.1080/09637494.2021.1949935'
 
 # Schedule page publish date (NOT publication's date).
 publishDate: '2022-09-01T00:00:00Z'
@@ -20,7 +20,7 @@ publishDate: '2022-09-01T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Religion, State & Society*
+publication: '*Religion, State & Society*'
 publication_short: ""
 
 abstract: 
